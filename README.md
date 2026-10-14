@@ -26,4 +26,4 @@ I'm moving into AI engineering. That means getting hands-on with PyTorch, buildi
 
 ## Get in touch
 
-Best way to reach me is through GitHub — open an issue or discussion on any of my repos.
+The best way to reach me is on LinkedIn: [linkedin.com/in/sebastian-capraru-068b2a2b4](https://linkedin.com/in/sebastian-capraru-068b2a2b4)
